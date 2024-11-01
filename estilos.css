@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(225, 210, 241);
+}
+
+carusel-item img{
+object-fit: cover;
+object-position: center;
+overflow: hidden;
+height: 400px;
+}
